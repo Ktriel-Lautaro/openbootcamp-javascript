@@ -1,0 +1,18 @@
+{
+  "name": "mi-primer-proyecto",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto con Node en open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+    
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "madk3",
+  "license": "ISC"
+}
